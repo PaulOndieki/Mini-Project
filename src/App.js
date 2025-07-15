@@ -21,6 +21,13 @@ const App = () => {
       <BookList key={refreshKey} onEdit={setEditedBook} />
     </div>
   );
+  return (
+    <div className="app-background">
+  <h1>Welcome</h1>
+</div>
+
+  );
+  
 };
 
 export default App;

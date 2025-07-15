@@ -1,6 +1,7 @@
 .App {
-  font-family: Arial, sans-serif;
+  font-family: ;
   padding: 20px;
+  text-shadow: #062330;
 }
 
 form {
@@ -9,4 +10,12 @@ form {
 
 input {
   margin: 5px;
+}
+.app-background {
+   background-color: #062330;
+
+}
+
+* {
+  background-color: #e3e9ce;
 }
