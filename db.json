@@ -1,14 +1,24 @@
 {
   "books": [
     {
-      "id": 1,
+      "id": "1",
       "title": "The Great Gatsby",
       "author": "F. Scott Fitzgerald"
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "1984",
       "author": "George Orwell"
+    },
+    {
+      "id": "89c3",
+      "title": "Maandamano",
+      "author": "Bien G"
+    },
+    {
+      "id": "cb86",
+      "title": "Blossoms of the Savannah",
+      "author": "Mr mann"
     }
   ]
 }
